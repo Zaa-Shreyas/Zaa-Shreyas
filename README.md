@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=6E7F5B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreyas+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Curious+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=6E7F5B&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shreyas+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Curious+Problem+Solver" />
 
 <br/>
 
@@ -18,7 +18,7 @@ Building thoughtful, accessible solutions for real-world problems
 
 ## 🌿 About Me
 
-I am a **curious learner** who enjoys exploring how technology can be applied to  
+I am an **aspiring developer** who enjoys exploring how technology can be applied to  
 solve **everyday, real-world problems** in creative and accessible ways.
 
 Currently, I am:
@@ -41,23 +41,21 @@ Currently, I am:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### Languages
-<p>
-HTML • CSS • C • C++ • Python
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python" />
 </p>
 
-### Frameworks & Libraries
-<p>
-JavaScript • React • React Native • Vue • Vite • Tailwind CSS  
-Node.js • Express.js • Next.js
+### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,reactnative,vue,vite,tailwind,nodejs,express,nextjs" />
 </p>
 
-### Tools & Platforms
-<p>
-Git • Docker • Vercel • Heroku • Firebase  
-Supabase • PostgreSQL
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,vercel,heroku,firebase,supabase,postgresql" />
 </p>
 
 ---
@@ -69,16 +67,16 @@ Supabase • PostgreSQL
 
 - Provides farmers with AI-driven insights  
 - Focused on accessibility and real agricultural needs  
-- Bridges technology with grassroots problem-solving
+- Bridges technology with grassroots problem-solving  
 
 ---
 
 ### ✂️ SalonQueue  
 **Smart Salon Queue & Booking Management System**
 
-- Online registration in live salon queues  
+- Online registration into live salon queues  
 - Queue and service management for salon owners  
-- Reduces wait time and improves customer experience
+- Reduces waiting time and improves customer experience  
 
 ---
 
