@@ -1,56 +1,119 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
-<h3 align="center">A Passionate Developer from YOUR_COUNTRY</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=6E7F5B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreyas+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Curious+Problem+Solver" />
+
+<br/>
+
+<p>
+<b>B.Tech Student (2023–2027)</b> • SRM Institute of Science & Technology  
+<br/>
+Building thoughtful, accessible solutions for real-world problems
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Zaa-Shreyas&label=Profile%20Views&color=7A8F6A&style=flat" />
+
+</div>
+
+---
+
+## 🌿 About Me
+
+I am a **curious learner** who enjoys exploring how technology can be applied to  
+solve **everyday, real-world problems** in creative and accessible ways.
+
+Currently, I am:
+- 🎓 Pursuing **B.Tech (2023–2027)** at **SRM IST**
+- 💻 Working as a **Full Stack Developer**
+- 🤖 Learning **Artificial Intelligence & Machine Learning**
+- 🔬 Researching the application of **Explainable AI (XAI)** in  
+  **Diabetic Retinopathy detection**
+- 🧠 Interested in building systems that are powerful, scalable,  
+  and **human-centric**
+
+---
+
+## 🧭 Areas of Interest
+
+- 🌐 Web Development  
+- 🛠️ Backend Engineering  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🔍 AI applications in Healthcare  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+HTML • CSS • C • C++ • Python
+</p>
+
+### Frameworks & Libraries
+<p>
+JavaScript • React • React Native • Vue • Vite • Tailwind CSS  
+Node.js • Express.js • Next.js
+</p>
+
+### Tools & Platforms
+<p>
+Git • Docker • Vercel • Heroku • Firebase  
+Supabase • PostgreSQL
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **YOUR_PROJECT**
-- 🌱 I’m learning **TECH / SKILL**
-- 💬 Ask me about **YOUR_EXPERTISE**
-- 📫 Reach me at **your@email.com**
-- ⚡ Fun fact: **Something cool about you**
+## 🚀 Featured Projects
+
+### 🌾 Krishi Sakhi  
+**AI-Powered Personal Farming Assistant**
+
+- Provides farmers with AI-driven insights  
+- Focused on accessibility and real agricultural needs  
+- Bridges technology with grassroots problem-solving
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank">
-  <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white" />
-</a>
-</p>
+### ✂️ SalonQueue  
+**Smart Salon Queue & Booking Management System**
+
+- Online registration in live salon queues  
+- Queue and service management for salon owners  
+- Reduces wait time and improves customer experience
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,mongodb,git,linux,docker" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zaa-Shreyas&show_icons=true&theme=gruvbox&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaa-Shreyas&theme=gruvbox&hide_border=true" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+## 🌍 Philosophy
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+> *Technology should not only be innovative —  
+> it should be understandable, inclusive, and genuinely useful.*
 
 ---
 
-### 📌 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+## 🤝 Let’s Connect
+
+I’m open to collaboration, learning, and building meaningful projects.  
+If our interests align, feel free to reach out.
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+<div align="center">
+
+⭐️ Thanks for visiting my profile  
+<br/>
+<b>— Shreyas</b>
+
+</div>
