@@ -50,7 +50,7 @@ Currently, I am:
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,reactnative,vue,vite,tailwind,nodejs,express,nextjs" />
+  <img src="https://skillicons.dev/icons?i=js,react,vue,vite,tailwind,nodejs,express,nextjs" />
 </p>
 
 ### 🧰 Tools & Platforms
