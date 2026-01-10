@@ -80,20 +80,6 @@ Currently, I am:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zaa-Shreyas&show_icons=true&theme=gruvbox&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaa-Shreyas&theme=gruvbox&hide_border=true" />
-
-</div>
-
----
-
 ## 🌍 Philosophy
 
 > *Technology should not only be innovative —  
