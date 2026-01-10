@@ -21,8 +21,8 @@ solve **everyday, real-world problems** in creative and accessible ways.
 
 Currently, I am:
 - 🎓 Pursuing **B.Tech (2023–2027)** at **SRM IST**
-- 💻 Working as a **Full Stack Developer**
-- 🤖 Learning **Artificial Intelligence & Machine Learning**
+- 💻 Aspiring **Software Developer**
+- 🤖 Interested **Artificial Intelligence & Machine Learning**
 - 🔬 Researching the application of **Explainable AI (XAI)** in  
   **Diabetic Retinopathy detection**
 - 🧠 Interested in building systems that are powerful, scalable,  
