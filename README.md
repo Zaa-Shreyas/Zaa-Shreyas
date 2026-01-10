@@ -10,8 +10,6 @@
 Building thoughtful, accessible solutions for real-world problems
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Zaa-Shreyas&label=Profile%20Views&color=7A8F6A&style=flat" />
-
 </div>
 
 ---
